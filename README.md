@@ -1,2 +1,2 @@
 # HealthBuddy
-A fitness tracker app using ML, Android app development, Python and firebase
+A fitness tracker app using Android app development, Dart and firebase
